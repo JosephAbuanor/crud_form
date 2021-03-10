@@ -5,7 +5,7 @@ import Login from './auth/login';
 import Signup from './auth/signup';
 import Product from './product/product'
 
-function App() {
+function App() { 
   return (
     <Router>
       <div className="App">
